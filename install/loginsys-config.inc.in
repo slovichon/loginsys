@@ -1,0 +1,10 @@
+<?php
+	/*
+	 * Loginsys
+	 * By Jared Yanovich <jaredy@closeedge.net>
+	 * Friday, March 21, 2003 03:34:47 PM
+	 * loginsys-config.inc - Loginsys configuration file
+	 */
+
+	loginsys_conf("multi_session",	LOGINSYS_MULTI_ALLOW);
+?>
